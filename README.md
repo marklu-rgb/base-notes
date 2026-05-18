@@ -2,3 +2,4 @@
 reaktywacja 
 contract 
 rutyna 
+konto 
