@@ -2,4 +2,6 @@
 reaktywacja 
 contract 
 rutyna 
-konto 
+konto
+QX80
+
