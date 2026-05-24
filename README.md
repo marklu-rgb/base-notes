@@ -5,3 +5,4 @@ rutyna
 konto
 QX80
 fenbendazol
+menbendazol
