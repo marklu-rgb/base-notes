@@ -6,3 +6,4 @@ konto
 QX80
 fenbendazol
 menbendazol
+prazyqwantyl
