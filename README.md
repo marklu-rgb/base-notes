@@ -7,3 +7,4 @@ QX80
 fenbendazol
 menbendazol
 prazyqwantyl
+ivermectin 
