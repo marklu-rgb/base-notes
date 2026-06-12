@@ -8,3 +8,4 @@ fenbendazol
 menbendazol
 prazyqwantyl
 ivermectin 
+alinia 
