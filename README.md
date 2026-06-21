@@ -9,3 +9,4 @@ menbendazol
 prazyqwantyl
 ivermectin 
 alinia 
+rutyna 
