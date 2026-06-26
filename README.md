@@ -10,3 +10,4 @@ prazyqwantyl
 ivermectin 
 alinia 
 rutyna 
+plagron 
