@@ -11,3 +11,4 @@ ivermectin
 alinia 
 rutyna 
 plagron 
+tego 
