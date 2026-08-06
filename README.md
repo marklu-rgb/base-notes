@@ -12,3 +12,4 @@ alinia
 rutyna 
 plagron 
 tego 
+Gdzie 
